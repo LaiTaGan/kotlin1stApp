@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ghost</string>
+    <string name="ghost">Ghost</string>
+    <string name="todo">TODO</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="number_3">Number 3</string>
+    <string name="number_4">Number 4</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="home">home</string>
+</resources>
